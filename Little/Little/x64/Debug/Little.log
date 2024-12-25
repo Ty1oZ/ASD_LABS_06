@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Arseny\source\repos\С++\Osipov_ASD\06_Labs\06_Komivoaijor\Little\Little\Source.cpp(7,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Arseny\source\repos\С++\Osipov_ASD\06_Labs\06_Komivoaijor\Little\Little\Source.cpp(7,17): warning C4309: инициализация: усечение константного значения
+  Little.vcxproj -> C:\Users\Arseny\source\repos\С++\Osipov_ASD\06_Labs\06_Komivoaijor\Little\x64\Debug\Little.exe
